@@ -1,0 +1,1 @@
+this code is based on https://github.com/AneleNcube/black-hole-quasinormal-modes-project-1/blob/001559e86311099bdadce9294e40e26489a73667/Eigenvalue%20Solver%20-%20Asymptotically%20Flat%20Schwarzschild%20BH.ipynb
