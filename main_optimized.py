@@ -13,9 +13,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 from obtengo_fqn_base_optimized import (
-    run_Scan_Black_Hole, 
-    run_Scan_Black_Hole_Fast,
-    QNMs, 
+    run_Scan_Black_Hole,QNMs, 
     plot_qnm_convergence, 
     plot_loss,
     DEVICE
